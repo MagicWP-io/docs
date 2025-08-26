@@ -71,6 +71,11 @@
     "global": {
       "anchors": [
         {
+          "anchor": "MagicWP",
+          "href": "https://magicwp.io",
+          "icon": "book-open-cover"
+        },
+        {
           "anchor": "Documentation",
           "href": "https://mintlify.com/docs",
           "icon": "book-open-cover"
